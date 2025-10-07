@@ -3,6 +3,10 @@ Este projeto apresenta uma arquitetura serverless baseada em AWS para um sistema
 ## 📐 Diagrama da Arquitetura
 
 O diagrama abaixo representa o fluxo circular entre os componentes do sistema:
+<p align="center">
+  <img src="images/Diagrama.png.png" alt="Diagrama do Projeto" title="Diagrama do Projeto - Arquitetura AWS" width="600">
+</p>
+
 
 ![Diagrama Serverless](images/arquitetura-serverless.png)
 
